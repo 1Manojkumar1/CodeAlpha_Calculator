@@ -1,4 +1,4 @@
-# Bento Calculator
+# Calculator
 
 A dark-themed, glassmorphism calculator built with React, Vite, and Tailwind CSS v4, featuring interactive bento-grid styled buttons with particle effects and cursor-driven border glow.
 
